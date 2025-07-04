@@ -9,11 +9,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ATM\Properties\**" />
+    <Compile Remove="ATM\References\**" />
+    <EmbeddedResource Remove="ATM\Properties\**" />
+    <EmbeddedResource Remove="ATM\References\**" />
+    <None Remove="ATM\Properties\**" />
+    <None Remove="ATM\References\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="ATM\Forms\" />
     <Folder Include="ATM\Data\" />
-    <Folder Include="ATM\Properties\" />
     <Folder Include="ATM\Resources\" />
-    <Folder Include="ATM\References\" />
   </ItemGroup>
 
   <ItemGroup>
