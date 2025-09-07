@@ -29,4 +29,4 @@ Simulador de cajero automático (ATM) desarrollado en C# con Windows Forms. Perm
 3. Compila y ejecuta el proyecto.
 
 ## Créditos
-Desarrollado por 404Foundxxx.
+Desarrollado por [@404Foundxxx](https://github.com/404Foundxxx) 
