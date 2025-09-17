@@ -66,7 +66,7 @@
             lblIntroduzcaTarjeta.BackColor = Color.FromArgb(0, 74, 173);
             lblIntroduzcaTarjeta.Font = new Font("Microsoft Sans Serif", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblIntroduzcaTarjeta.ForeColor = Color.White;
-            lblIntroduzcaTarjeta.Location = new Point(156, 207);
+            lblIntroduzcaTarjeta.Location = new Point(161, 207);
             lblIntroduzcaTarjeta.Name = "lblIntroduzcaTarjeta";
             lblIntroduzcaTarjeta.Size = new Size(176, 24);
             lblIntroduzcaTarjeta.TabIndex = 2;
