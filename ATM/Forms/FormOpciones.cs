@@ -35,7 +35,7 @@ namespace Cajero
         // Evento que se ejecuta cuando se hace clic en el botón para salir
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            this.Close(); // Cierra el formulario actual
+            Application.Exit(); // Cierra la aplicación
         }
 
         // Evento que se ejecuta cuando se hace clic en el botón para ver las transacciones
